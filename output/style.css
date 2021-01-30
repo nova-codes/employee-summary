@@ -1,0 +1,46 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: #e8e3e1;
+    font-size: 18px;
+}
+
+a {
+    color: #6ca692;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #91c496;
+}
+
+.team-heading, .container-fluid {
+    background-color: #3d3d3d;
+    color: #91c496;
+    margin-bottom: 40px;
+}
+
+h1 { text-shadow: 1px 1px #1f1917; }
+
+.employee-card {
+    margin: 0 10px;
+    border: 1px solid #544540;
+}
+
+.card-header {
+    background-color: #6ca692;
+    color: #fafafa;
+    text-shadow: 1px 1px #4b7c6b;
+}
+
+.card-body, .list-group {
+    background-color: #ececeb;
+    color: #1f1917;
+}
+
+h3.card-title {
+    text-align: right;
+    font-size: 1rem; 
+}
